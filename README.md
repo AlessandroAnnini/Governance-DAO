@@ -4,6 +4,10 @@ DAOs are taking over. Build one yourself for fun. Maybe it's a meme DAO for your
 
 [buildspace project](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766)
 
+## Screen
+
+![DevonLochDAO](screen.png 'DevonLochDAO')
+
 ## What you can find in the code
 
 ✅ deployed my own custom ERC-20 token
